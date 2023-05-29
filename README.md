@@ -13,13 +13,20 @@
   
   trainingkim30@gmail.com
 
+  📚PORTFOLIO
+  
+  
+  <a href="https://bead-nape-975.notion.site/b4a901686ceb4cf89250683284dad818"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>  <a href="https://blog.naver.com/trainingkim30"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"></a>
+  
   
   
   💻TECH STACKS
   
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">  <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=black">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">  <img src="https://img.shields.io/badge/Flask-A5915F?style=for-the-badge&logo=Flask&logoColor=black">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=JAVA&logoColor=black">  
+  <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=black">     <img src="https://img.shields.io/badge/Flask-A5915F?style=for-the-badge&logo=Flask&logoColor=black">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=JAVA&logoColor=black">  
 
 
-  
+  |:heavy_check_mark:LANGUAGE|:heavy_check_mark:DATABASE|:heavy_check_mark:COLLABORATION|:heavy_check_mark:IDE TOOL|:heavy_check_mark:ENGINE|
+|------|---|---|------|--|
+|<img src="https://img.shields.io/badge/-C%23-FFFFFF?style=for-the-badge&logo=-C%23&logoColor=white"><pre><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">||<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"><pre><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><pre><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">|깃,깃허브,소스트리,디스코|이클립스,vs|<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">|
 
 </div>
