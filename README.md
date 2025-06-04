@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=WELCOMETO&nbspTRAININGKIM'sWORLD%20&weight=1200&height=500&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=WELCOMETO&nbspTRAININGKIM'sWORLD%20&height=400&fontSize=50)
 
   <a href="링크" target="_blank">
     <img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
