@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div>
+<div align="center">
 <h3>🌱I've used</h3>
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/slcak-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
-<div>
+<div align="center">
 <h3>🛠️Tools</h3>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
