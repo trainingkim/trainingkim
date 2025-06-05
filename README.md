@@ -24,8 +24,8 @@
 <div align="left">
 <h3>🛠️Tools</h3>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij&logoColor=white">
-<img src="https://img.shields.io/badge/VSCODE-181717?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </div><br/>
 
 
