@@ -15,7 +15,7 @@
 <div align="left">
 <h3>🌱I've used</h3>
 <img src="https://img.shields.io/badge/flask-D22128?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
