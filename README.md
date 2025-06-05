@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=WELCOME&nbsp;TO&nbsp;&nbsp;TRAININGKIM'sWORLD%30&height=300&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=TRAININGKIM's&nbsp;WORLD%30&height=300&fontSize=50)
 
 <div align="left">
 <h3>💪Stacks</h3>
