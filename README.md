@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=WELCOMETO%TRAININGKIM'sWORLD%20&height=300&fontSize=50)
 
-  <a href="링크" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
 <div align="left">
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
