@@ -2,7 +2,7 @@
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-<a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a><br/>
+<a href=https://www.notion.so/SQA-2092f2b42c5e80fd9c99d3f151667df4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=trainingkim7@gmail.com"> </a><br/>
 
 
 <div align="left">
