@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=TRAININGKIM's&nbsp;WORLD%20&height=300&fontSize=50)
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+<a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
+  
 <div align="left">
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
